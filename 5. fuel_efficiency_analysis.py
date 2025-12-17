@@ -3,8 +3,18 @@ import numpy as np
 fuel_data=np.genfromtxt('Fuel_data.csv', delimiter=',', skip_header=1,dtype=str)
 
 fuel_efficiency = fuel_data[:, 7].astype(float)
+make = fuel_data[:,8]
 average_efficiency = np.mean(fuel_efficiency)
-percentage_improvement=((fuel_efficiency[1]-fuel_efficiency[0])/fuel_efficiency[0])*100
 
-print(f"Average Fuel Efficiency: {average_efficiency:.2f} MPG")
-print(f"Percentage Improvement from First to Second Car: {percentage_improvement:.2f}%")
+mazda_eff = fuel_efficiency[make == "mazda"]
+audi_eff = fuel_efficiency[make == "audi"]
+
+mazda_avg = np.mean(mazda_eff)
+audi_avg = np.mean(audi_eff)
+
+percentage_improvement = ((audi_avg - mazda_avg) / mazda_avg) * 100
+
+print("Average Fuel Efficiency of all cars:", round(average_efficiency, 2), "MPG")
+print("Average Fuel Efficiency of Mazda:", round(mazda_avg, 2), "MPG")
+print("Average Fuel Efficiency of Audi:", round(audi_avg, 2), "MPG")
+print("Percentage Improvement from Mazda to Audi:", round(percentage_improvement, 2), "%")
