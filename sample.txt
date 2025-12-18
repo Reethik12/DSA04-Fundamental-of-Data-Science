@@ -1,0 +1,3 @@
+Data science is an interdisciplinary field.
+Data science uses scientific methods processes algorithms and systems.
+Data science helps to extract knowledge from data.
