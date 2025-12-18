@@ -1,0 +1,51 @@
+﻿Id,Full Name,Address,age,gender,Latitude,Longitude,Email Adress,Order,Order Status,Order Total,Items,Total sales,Order Count,Rating,Average Rating,Delivery
+10,Adam Martinez,"China, Beijing Shi ",30,Female,40,116,adam.martinez@internalmail,14 September 2021,CANCELLED,209,Boy's Coat (Blue),80,1,8,6,18 September 2021
+20,Adam Miller,"193, Bannerghatta Main Rd ",68,Female,13,78,adam.miller@internalmail,18 September 2021,COMPLETE,54,Boy's Coat (Blue),"10,816",90,4,6,22 September 2021
+30,Adam Walker,Behrenstraße 42 ,70,Female,53,13,adam.walker@internalmail,22 September 2021,COMPLETE,43,Boy's Coat (Blue),319,3,8,6,26 September 2021
+40,Adan Lamica,Behrenstraße 42 ,72,Female,53,13,adan.lamica@internalmail,26 September 2021,COMPLETE,305,Boy's Coat (Brown),137,3,5,6,30 September 2021
+50,Adeline Iannotti,Floreasca Park 43 Soseaua ,16,Female,44,26,adeline.iannotti@internalmail,30 September 2021,COMPLETE,153,Boy's Coat (Brown),"3,936",64,6,6,04 October 2021
+60,Albert Altmeer,"Juana Manso 1069,",31,Female,-35,-58,albert.altmeer@internalmail,04 October 2021,COMPLETE,199,Boy's Coat (Brown),235,5,8,6,08 October 2021
+70,Alex Binette,233 South Wacker Dr ,18,Male,42,-88,alex.binette@internalmail,08 October 2021,COMPLETE,221,Boy's Hoodie (Grey),51,1,7,5,12 October 2021
+80,Alex Loera,233 South Wacker Dr ,60,Female,42,-88,alex.loera@internalmail,12 October 2021,COMPLETE,316,Boy's Hoodie (Grey),"3,653",98,1,5,16 October 2021
+90,Ali Brengle,Woodmead North Office Park ,65,Female,-26,28,ali.brengle@internalmail,16 October 2021,COMPLETE,81,Boy's Hoodie (Grey),51,1,4,5,20 October 2021
+100,Alva Halajian,Woodmead North Office Park ,74,Male,-26,28,alva.halajian@internalmail,20 October 2021,COMPLETE,367,Boy's Jeans (Black),81,3,8,5,24 October 2021
+110,Alvin Gagner,1391 Tiamiyu Savage St,98,Female,6,3,alvin.gagner@internalmail,24 October 2021,COMPLETE,67,Boy's Jeans (Black),"2,426",78,4,5,28 October 2021
+120,Alwin Elliott,One South Place London ,74,Male,52,0,alwin.elliott@internalmail,28 October 2021,COMPLETE,161,Boy's Jeans (Black),40,2,1,5,01 November 2021
+130,Ambrose Hiday,C/ José Echegaray 6B Las ,51,Male,40,-4,ambrose.hiday@internalmail,01 November 2021,COMPLETE,157,Boy's Jeans (Blue),30,1,4,5,05 November 2021
+140,Ami Dardar,Montes Urales  470 P3 Col ,57,Female,19,-99,ami.dardar@internalmail,05 November 2021,COMPLETE,29,Boy's Jeans (Blue),"7,702",81,3,5,09 November 2021
+150,Anderson Keaffaber,Montes Urales 470 P3 Col,15,Male,19,-99,anderson.keaffaber@internalmail,09 November 2021,COMPLETE,85,Boy's Pyjamas (Grey),148,1,10,5,13 November 2021
+160,Andrea James,First International FCU,75,Male,19,73,andrea.james@internalmail,13 November 2021,COMPLETE,137,Boy's Pyjamas (Grey),"9,916",92,10,7,17 November 2021
+170,Andrew Schieferstein,First International FCU,59,Male,19,73,andrew.schieferstein@internalmail,17 November 2021,COMPLETE,352,Boy's Pyjamas (Grey),37,1,5,7,21 November 2021
+180,Andria Myles,"F-01/02, First Floor Salcon ",22,Female,29,77,andria.myles@internalmail,21 November 2021,COMPLETE,319,Boy's Shirt (Black),99,1,5,7,25 November 2021
+190,Angel Sakoda,205 Lexington ,19,Male,41,-74,angel.sakoda@internalmail,25 November 2021,COMPLETE,271,Boy's Shirt (Black),"6,993",87,9,7,29 November 2021
+200,Angela Bailey,https://www.example.com,97,Male,,,angela.bailey@internalmail,29 November 2021,COMPLETE,213,Boy's Shirt (Black),74,1,6,7,03 December 2021
+210,Angelo Carreon,https://www.example.com,57,Female,,,angelo.carreon@internalmail,03 December 2021,COMPLETE,146,Boy's Shorts (Blue),215,2,7,7,07 December 2021
+220,Anisa Kurtz,https://www.example.com,32,Male,,,anisa.kurtz@internalmail,07 December 2021,COMPLETE,246,Boy's Shorts (Blue),"8,532",86,5,6,11 December 2021
+230,Anna Murphy,Level 9 225 St Georges Terrace ,18,Female,-32,116,anna.murphy@internalmail,11 December 2021,COMPLETE,169,Boy's Socks (Black),57,1,7,6,15 December 2021
+240,Annemarie Pinckney,Level 9 225 St Georges Terrace ,96,Female,-32,116,annemarie.pinckney@internalmail,15 December 2021,COMPLETE,78,Boy's Socks (Black),"4,024",77,5,6,19 December 2021
+250,Anthony Boone,Redwood Shores 500 ,16,Female,38,-122,anthony.boone@internalmail,19 December 2021,COMPLETE,98,Boy's Socks (Black),153,2,5,5,23 December 2021
+260,Arron Waclawski,Redwood Shores 500 ,57,Female,38,-122,arron.waclawski@internalmail,23 December 2021,COMPLETE,109,Boy's Socks (Grey),153,2,1,5,27 December 2021
+270,Arthur Hill,1501 Fourth Avenue ,53,Female,48,-122,arthur.hill@internalmail,27 December 2021,COMPLETE,216,Boy's Socks (Grey),"9,417",82,9,5,31 December 2021
+280,August Arouri,Riverside Corporate Park 4 ,69,Female,-34,151,august.arouri@internalmail,31 December 2021,COMPLETE,239,Boy's Socks (Grey),191,1,2,5,04 January 2022
+290,August Rupel,Rua Dr. Jose Aureo Bustamant,48,Male,-24,-47,august.rupel@internalmail,04 January 2022,COMPLETE,139,Boy's Socks (White),"3,008",96,9,5,08 January 2022
+300,Ayana Barkhurst,"B, Aharon Bart St 18",83,Female,32,35,ayana.barkhurst@internalmail,08 January 2022,COMPLETE,216,Boy's Socks (White),73,2,5,5,12 January 2022
+310,Azalee Goodwater,2 Chome-5-? Kitaaoyama,73,Male,36,140,azalee.goodwater@internalmail,12 January 2022,COMPLETE,226,Boy's Sweater (Green),"3,867",78,1,5,16 January 2022
+320,Barbara Allen,2 Chome-5-? Kitaaoyama,22,Female,36,140,barbara.allen@internalmail,16 January 2022,COMPLETE,38,Boy's Sweater (Green),67,2,6,5,20 January 2022
+330,Barry Tolliver,Hertogswetering 163,92,Male,52,5,barry.tolliver@internalmail,20 January 2022,COMPLETE,97,Boy's Sweater (Red),48,1,10,5,24 January 2022
+340,Beckie Lagrenade,"193, Bannerghatta Main Rd",89,Female,,,beckie.lagrenade@internalmail,24 January 2022,COMPLETE,78,Boy's Sweater (Red),"10,017",70,7,6,28 January 2022
+350,Bernardo Phoenix,Behrenstraße 42 ,86,Male,,,bernardo.phoenix@internalmail,28 January 2022,COMPLETE,57,Boy's Sweater (Red),145,1,7,7,01 February 2022
+360,Bert Takes,Juana Manso 1069,74,Male,,,bert.takes@internalmail,01 February 2022,COMPLETE,167,Boy's Trousers (Black),33,1,4,7,05 February 2022
+370,Beverly Hughes,233 South Wacker Dr. 45th Floor ,34,Female,,,beverly.hughes@internalmail,05 February 2022,COMPLETE,81,Boy's Trousers (Black),"3,711",76,6,7,09 February 2022
+380,Beverly Rivera,Woodmead North Office Park ,94,Male,,,beverly.rivera@internalmail,09 February 2022,COMPLETE,132,Boy's Trousers (Black),116,2,6,7,13 February 2022
+390,Boyd Rearden,One South Place London EC2M 2RB,45,Female,,,boyd.rearden@internalmail,13 February 2022,COMPLETE,115,Boy's Trousers (Blue),"2,387",73,6,7,17 February 2022
+400,Brandy Genco,Montes Urales # 470 P3 Col,76,Male,,,brandy.genco@internalmail,17 February 2022,COMPLETE,68,Boy's Trousers (White),221,1,10,7,21 February 2022
+410,Bridgette Crevier,First International FCU,39,Male,,,bridgette.crevier@internalmail,21 February 2022,COMPLETE,119,Boy's Trousers (White),"10,733",81,8,3,25 February 2022
+420,Britney Gable,"F-01/02, First Floor Salcon ",23,Male,,,britney.gable@internalmail,25 February 2022,COMPLETE,186,Girl's Coat (Blue),28,1,4,3,01 March 2022
+430,Broderick Dourado,https://www.example.com,30,Female,,,broderick.dourado@internalmail,01 March 2022,COMPLETE,75,Girl's Coat (Blue),"3,744",94,2,3,05 March 2022
+440,Broderick Faur,https://www.example.com,27,Male,,,broderick.faur@internalmail,05 March 2022,COMPLETE,274,Girl's Dress (Red),22,1,2,3,09 March 2022
+450,Brooks Craker,Level 9 225 St Georges ,77,Female,,,brooks.craker@internalmail,09 March 2022,COMPLETE,248,Girl's Dress (Red),"1,809",85,2,3,13 March 2022
+460,Buster Landin,Redwood Shores 500 ,61,Male,,,buster.landin@internalmail,13 March 2022,COMPLETE,158,Girl's Dress (Red),22,1,3,3,17 March 2022
+470,Carl Lee,Riverside Corporate Park 4 ,64,Female,,,carl.lee@internalmail,17 March 2022,COMPLETE,105,Girl's Hoodie (White),390,2,2,3,21 March 2022
+480,Carlos Maza,"B, Aharon Bart St 18",38,Female,,,carlos.maza@internalmail,21 March 2022,COMPLETE,134,Girl's Hoodie (White),"13,894",92,2,3,25 March 2022
+490,Carlotta Achenbach,2 Chome-5-? Kitaaoyama,39,Female,,,carlotta.achenbach@internalmail,25 March 2022,COMPLETE,204,Girl's Jeans (Grey),78,3,5,6,29 March 2022
+500,Carmella Avalos,"193, Bannerghatta Main Rd",25,Female,,,carmella.avalos@internalmail,29 March 2022,COMPLETE,43,Girl's Jeans (Grey),"2,411",84,7,6,02 April 2022
